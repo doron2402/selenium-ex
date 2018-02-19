@@ -27,7 +27,7 @@
     "selenium-webdriver": "^2.44.0"
   },
   "dependencies": {
-    "jasmine": "^2.4.1",
+    "jasmine": "^3.0.0",
     "selenium-webdriver": "^2.48.2"
   }
 }
